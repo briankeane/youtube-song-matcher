@@ -1,0 +1,26 @@
+{
+  "name": "youtube-song-matcher",
+  "version": "0.1.0",
+  "description": "Finds the most likely match for the studio recording of a song on youtube, through the youtube api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "env-cmd -f .env-test mocha --recursive --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briankeane/youtube-song-matcher.git"
+  },
+  "author": "Playola Radio, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briankeane/youtube-song-matcher/issues"
+  },
+  "homepage": "https://github.com/briankeane/youtube-song-matcher#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^9.0.3",
+    "eslint": "^6.2.1"
+  }
+}

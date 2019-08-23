@@ -1,0 +1,12 @@
+__pycache__
+node_modules/
+.idea/
+.env*
+!.env-test
+!.env-example
+.DS_Store
+.bash_history
+.config/
+.deploymentENVs/
+.npm/
+.config/
