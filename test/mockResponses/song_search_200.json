@@ -1,0 +1,1662 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/zOPVMshXtg1GuOpvTzEgXOFfZFU\"",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 8024,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Q-TJ6fOq72OH8Hk-76vJlE0lsOM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "t6P4KwtZ0Ic"
+            },
+            "snippet": {
+                "publishedAt": "2010-08-10T04:30:24.000Z",
+                "channelId": "UC3lF6MEE4uNpBf5o9qj-Vsw",
+                "title": "Will Hoge - Even if it breaks your heart",
+                "description": "I do not own this song.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t6P4KwtZ0Ic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t6P4KwtZ0Ic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t6P4KwtZ0Ic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "charlyei",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/7mTLrbR77r77Iz4EjtF8bAh80tI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hfYBvtrTsts"
+            },
+            "snippet": {
+                "publishedAt": "2009-11-12T00:18:43.000Z",
+                "channelId": "UCwgxZ8xogiYL1H-nApzvJBA",
+                "title": "Will Hoge - Even If It Breaks Your Heart",
+                "description": "Will Hoge performs \"Even If It Breaks Your Heart\" live at Kink.fm in Portland, OR. November 10, 2009.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hfYBvtrTsts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hfYBvtrTsts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hfYBvtrTsts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "101.9 KINK.FM",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Eb8fZ4ldnx4N2jK_6eCLj7I_13A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6lIpnORssVE"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-13T16:20:27.000Z",
+                "channelId": "UCHuqBktpVBNvsQfCKu8ZVRA",
+                "title": "WILL HOGE  -Even If It Breaks Your Heart-",
+                "description": "Will Hoge singing his song “Even If It Breaks Your Heart” from the album THE WRECKAGE during his solo performance at The Hamilton LIVE in Washington ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6lIpnORssVE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6lIpnORssVE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6lIpnORssVE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Elmo Thamm",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/qKkcFnP0Kble3j2vVN3Hqw8IBaY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "63De445Iy4Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-31T22:09:31.000Z",
+                "channelId": "UCf3r1JdYf6scuGaI0YRkyNg",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot; 1929 Martin 0-18 at Norman&#39;s Rare Guitars",
+                "description": "Wow! Check out Will Hoge singing his song \"Even If It Breaks Your Heart\" with our 1929 Martin 0-18. He brought his guitar player Thom Donavan on a Trussart ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/63De445Iy4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/63De445Iy4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/63De445Iy4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Normans Rare Guitars",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/7t5uD1kpbe5sWc5MiwzHHx1VXZ4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q2SZ7t0dDGk"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-26T01:59:03.000Z",
+                "channelId": "UCuY1Z8ah-OtwBZ4jxcKqSSg",
+                "title": "Even If It Breaks Your Heart",
+                "description": "Provided to YouTube by Rykodisc Even If It Breaks Your Heart · Will Hoge The Wreckage ℗ 2009 Will Hoge, Inc. Auto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q2SZ7t0dDGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q2SZ7t0dDGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q2SZ7t0dDGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Will Hoge - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/goP2xLrvN4OdrWVh5JtjPTNDBhk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P-nvT9a0xbM"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-14T18:39:28.000Z",
+                "channelId": "UCGnfGcBRjEHzhO2OT3OyfZg",
+                "title": "WILL HOGE: &quot;Even If It Breaks Your Heart&quot;  +  12.13.2012",
+                "description": "Will Hoge performing his 2013 Grammy-nominated song, \"Even If It Breaks Your Heart\" at The Down Home in Johnson City, TN on 12/13/2012, the final stop of ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P-nvT9a0xbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P-nvT9a0xbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P-nvT9a0xbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TrottermaniaTV TROTTER",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/cSIdvVhdnvfWO3jgwXhfBZCQy7U\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r0t9AVwHJng"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-11T23:38:45.000Z",
+                "channelId": "UC-D3WtZYWRP6j_l5keHZriw",
+                "title": "Will Hoge - Even If It Breaks Your Heart (Bing Lounge)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r0t9AVwHJng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r0t9AVwHJng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r0t9AVwHJng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "987TheBull",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/AS-3sSfo00ppAsk6aqQPy5_PlW4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IGserj5uwQA"
+            },
+            "snippet": {
+                "publishedAt": "2011-09-29T07:34:10.000Z",
+                "channelId": "UCq4MKKFxf_86d1A3sXIYHUA",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "Will Hoge performing \"Even If It Breaks Your Heart\" at Music City Roots live from the Loveless Cafe on 9.21.2011.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IGserj5uwQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IGserj5uwQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IGserj5uwQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music City Roots",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/q0McY9xWLt65giXTgIfy4WVT7yA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0pyVF0FWvYw"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-19T07:29:51.000Z",
+                "channelId": "UCq4MKKFxf_86d1A3sXIYHUA",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "From the stage of Music City Roots, Will Hoge performs live!! 1.13.10. Distributed by Tubemogul.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0pyVF0FWvYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0pyVF0FWvYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0pyVF0FWvYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music City Roots",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/C8xfyW9j4Jn9hXYAeeVtK1QwOwc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nWWvbo6F4ss"
+            },
+            "snippet": {
+                "publishedAt": "2013-08-11T04:54:29.000Z",
+                "channelId": "UCtcHp7asn151IywYgpQqpkQ",
+                "title": "Will Hoge - Even If It Breaks Your Heart",
+                "description": "Will Hoge at the Wormy Dog Saloon in Oklahoma City, OK 08-09-2013 singing his version of 'Even If It Breaks Your Heart' that he wrote which the Eli Young ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nWWvbo6F4ss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nWWvbo6F4ss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nWWvbo6F4ss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "elwoodshaun",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/x8yRyzO6G76zWXINjaxAn3C_EB8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eVF3vuD9snI"
+            },
+            "snippet": {
+                "publishedAt": "2018-09-24T20:10:52.000Z",
+                "channelId": "UCiAxvFuO6nN8ppluKT2O5Vw",
+                "title": "Will Hoge - &#39;Even If It Breaks Your Heart&#39; @ City Winery NYC 9/23/18",
+                "description": "Wow....first time seeing this guy...been around forever! Great singer! Great songwriter! Enjoy! He's opening up on tour with Social Distortion this fall! That's gonna ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eVF3vuD9snI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eVF3vuD9snI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eVF3vuD9snI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "J. Harrow",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/7ipO00McAi6jxZvzbkztcU8TUXo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bdHhqOrwtSM"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-07T08:10:34.000Z",
+                "channelId": "UCXttBYzB8jCEA9PVOKT0SjQ",
+                "title": "Will Hoge - Even It If Breaks Your Heart [Huercasa Country Festival 2019]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bdHhqOrwtSM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bdHhqOrwtSM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bdHhqOrwtSM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ablingoro",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/SC7WsHeYBouvYE5d9crPg7ScICM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jU-iNoeiVU8"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-03T07:36:54.000Z",
+                "channelId": "UCVmuK0mlvm27f0-Hi1UInww",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot; on TRB XIII",
+                "description": "Will Hoge during his first show on the pool deck of TRB XIII. Monday, February 25, 2013.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jU-iNoeiVU8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jU-iNoeiVU8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jU-iNoeiVU8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Erin Donaldson",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/qM6IS76Hhs1xSWeeA7dFwu-meKw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BAMe6CllCO4"
+            },
+            "snippet": {
+                "publishedAt": "2013-07-09T22:31:14.000Z",
+                "channelId": "UCHkN-YKzOWKIzfAuka-eK9A",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot; 7-5-13",
+                "description": "Will Hoge singing \"Even If It Breaks Your Heart\" at Red White and Boom in Lexington, KY on 7-5-13. Will co-wrote this song that Eli Young Band recorded.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BAMe6CllCO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BAMe6CllCO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BAMe6CllCO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ourcountryconcerts",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/mYEiv1wJGw01uJAdOnfJKNX5Wn8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e_fjJ7Gyp64"
+            },
+            "snippet": {
+                "publishedAt": "2011-11-12T18:45:40.000Z",
+                "channelId": "UCriIdX-phM0jQB3VhL4NaLQ",
+                "title": "Will Hoge &quot;When I Get My Wings&quot;",
+                "description": "http://musicfog.com Will Hoge, with \"When I Get My Wings,\" from his album \"Number Seven.\" Recorded live in Nashville at Marathon Recorders, during the 2011 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e_fjJ7Gyp64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e_fjJ7Gyp64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e_fjJ7Gyp64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music Fog",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/FVODU4uuF1IboMTjxiNblhhwY7c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fj3HqYdZaS8"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-23T04:55:55.000Z",
+                "channelId": "UCfPWFpDpmnYO530l9ivmC6Q",
+                "title": "Will Hoge Live at Summer NAMM 2019",
+                "description": "Nashville based singer songwriter Will Hoge stopped by the Gibson booth at Summer NAMM to give fans an exclusive performance of his song \"Even If It Breaks ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fj3HqYdZaS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fj3HqYdZaS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fj3HqYdZaS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gibson Guitar",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/YoMyWLBAmjC_vq1nRq4GBXn986k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lopzLQdAW_I"
+            },
+            "snippet": {
+                "publishedAt": "2015-09-11T19:55:18.000Z",
+                "channelId": "UCFngOYimtdViTsmWLdMMnyw",
+                "title": "2015-09-10 Will Hoge - Even If It Breaks Your Heart",
+                "description": "Will Hoge live at Bush Hall, London, 10 September 2015.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lopzLQdAW_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lopzLQdAW_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lopzLQdAW_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dan French",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/YxgegmuJqxUsUzV4hM7OK7E8dgU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3PCVA5j5-J4"
+            },
+            "snippet": {
+                "publishedAt": "2010-07-01T22:25:30.000Z",
+                "channelId": "UCyCCCtmCNAvGueSo2PlgUqA",
+                "title": "Will Hoge - Even If It Breaks Your Heart - Live at Lightning 100",
+                "description": "Will Hoge came to hang out in the Lightning100 Studio with Lt. Dan. He played the new hit song called \"Even If It Breaks Your Heart,\" from his album called The ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3PCVA5j5-J4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3PCVA5j5-J4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3PCVA5j5-J4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lightning 100",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/iCCgYVcxCqHxowUUOnO18pG8Giw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "poWZeshOVLI"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-06T19:44:11.000Z",
+                "channelId": "UCriIdX-phM0jQB3VhL4NaLQ",
+                "title": "Will Hoge &quot;The Highway&#39;s Home&quot;",
+                "description": "Will Hoge performs backstage at the 8x10 in Baltimore (10/2/09)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/poWZeshOVLI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/poWZeshOVLI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/poWZeshOVLI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Music Fog",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/p29cpUed05itqccCpVEQa2rtC7E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mGTQckqGrX0"
+            },
+            "snippet": {
+                "publishedAt": "2010-12-12T03:29:16.000Z",
+                "channelId": "UC8XZoz_3Cf5jlHEFtg-ctkQ",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot; Live at KDHX 12/02/10 (HD)",
+                "description": "Will Hoge performs \"Even If It Breaks Your Heart\" live in the Magnolia Avenue KDHX studio in St. Louis, MO December 2, 2010. Video by Ed Kleinberg.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mGTQckqGrX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mGTQckqGrX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mGTQckqGrX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KDHX",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/b9e00r6DvFAhj0oTBWF-tqQltKE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dfjsP6bgf1I"
+            },
+            "snippet": {
+                "publishedAt": "2015-03-20T14:27:57.000Z",
+                "channelId": "UCk6B8RAiXhBI021rbCen_Cg",
+                "title": "Even If It Breaks Your Heart-Will Hoge",
+                "description": "Way back on the radio dial...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dfjsP6bgf1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dfjsP6bgf1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dfjsP6bgf1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bluematter1969",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/WluVByqKnxYs05JgzHel_5ROhS0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RvNZX_AAjQU"
+            },
+            "snippet": {
+                "publishedAt": "2009-06-25T16:22:19.000Z",
+                "channelId": "UCtCu5tu1gfIsn_Yw6cK60Yw",
+                "title": "Will Hoge - Even If It Breaks Your Heart",
+                "description": "Recorded at 12th & Porter in Nashville, Tennessee on June 24, 2009. It was the final night of Will's 4 night series \"Will Hoge & Friends - Back to the Music\".",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RvNZX_AAjQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RvNZX_AAjQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RvNZX_AAjQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lesleyrebecca",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Q3e_sFA4NeclccG-RUsqEstWtwE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3RZ_yhC7yjY"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-19T16:10:02.000Z",
+                "channelId": "UC4QLDFTa-jS5JVOlwFnLymA",
+                "title": "NAMM Will Hoge Even if it breaks your heart",
+                "description": "Rhett and Jonathan talk about what to look forward to for NAMM and what makes summer NAMM different to.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3RZ_yhC7yjY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3RZ_yhC7yjY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3RZ_yhC7yjY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Casino Guitars",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/wbeKHarvwSM5EjEkxhP8vJRY6O0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2aWB6LD2jtQ"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-18T21:32:49.000Z",
+                "channelId": "UCyCCCtmCNAvGueSo2PlgUqA",
+                "title": "Will Hoge - Even If It Breaks Your Heart - 615 Day Session",
+                "description": "Will Hoge performs \"Even If It Breaks Your Heart\" from The Wreckage on Lightning 100's 615 Day. Listen to Nashville's independent radio online: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2aWB6LD2jtQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2aWB6LD2jtQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2aWB6LD2jtQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lightning 100",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/5SuADSmyen0EDgFPNpSPtGN7VNw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ztx2P5zc064"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-10T22:33:37.000Z",
+                "channelId": "UCSCpAdy35V7-U5_AtWBnFAw",
+                "title": "Will Hoge - Even If It Breaks Your Heart",
+                "description": "Many believe Eli Young band wrote this but it was really Will Hoge. Coach Joe Hat Tricks Lewisville, TX June 10, 2012.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ztx2P5zc064/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ztx2P5zc064/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ztx2P5zc064/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Venus Paternite",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/gkWsf8dBs5nhhs0XU0RJFh3eq_A\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eq_0bx7bsw0"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-12T04:12:04.000Z",
+                "channelId": "UCAOvACqEJ96TrY7QkaGNr6w",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "Didn't get the beginning. :-( This is my fave song on his new album, The Wreckage. Filmed at The Visualite in Charlotte on 10-9-09.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eq_0bx7bsw0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eq_0bx7bsw0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eq_0bx7bsw0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "J P",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/NuuopVT9s9MeNiJC4e88Dck0BcU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wtQP9EBfpsQ"
+            },
+            "snippet": {
+                "publishedAt": "2012-06-13T08:42:33.000Z",
+                "channelId": "UCnll0k_K37_0iFuvZENbLDQ",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "Will Hoge performing \"Even If It Breaks Your Heart\" at Scruffy City Roots live from the Square Room on 5.31.2012.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wtQP9EBfpsQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wtQP9EBfpsQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wtQP9EBfpsQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "scruffycityroots",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/FtXT5VerlmYxeZlGPkIB20wPSkI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vgh61W9vnqQ"
+            },
+            "snippet": {
+                "publishedAt": "2019-03-21T13:02:57.000Z",
+                "channelId": "UCb-WKDePP5p0ToLdnnW_0kw",
+                "title": "Even If It Breaks Your Heart",
+                "description": "Provided to YouTube by Universal Music Group Even If It Breaks Your Heart · Eli Young Band Country Truckin' ℗ 2011 Big Machine Label Group, LLC Released ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vgh61W9vnqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vgh61W9vnqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vgh61W9vnqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eli Young Band - Topic",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/EjClJKb9kGutLlnVAUtnAobd-fE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a4CvVell34E"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-10T06:36:07.000Z",
+                "channelId": "UCWnrq1dPkS6LmOo3j-YqXtQ",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot; 4/9/10 9:30 Club Washington, D.C.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a4CvVell34E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a4CvVell34E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a4CvVell34E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "usbomb99",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/R06vSXeTUqV_ze30XKWr2-dqk2c\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nEIsw_2Nt_o"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-25T17:08:10.000Z",
+                "channelId": "UC1h3bkc1b4ULtqHpGi3UI2w",
+                "title": "Will Hoge - Even if it Breaks Your Heart (live)",
+                "description": "Live at The Pour House Charleston SC April 24, 2016.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nEIsw_2Nt_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nEIsw_2Nt_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nEIsw_2Nt_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Teresa Cowan",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/66wo3YCuRdCR0FNl1hZMxDkww6s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hCX339p6fGo"
+            },
+            "snippet": {
+                "publishedAt": "2010-01-02T23:46:23.000Z",
+                "channelId": "UCvSWH8EhXBWfeU-luVX86OA",
+                "title": "Will Hoge - Even If It Breaks Your Heart  11.20.09",
+                "description": "yet another reference to \"those girls\" but im pretty sure between them all, none owned \"The Wreckage\" which is quite sad...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hCX339p6fGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hCX339p6fGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hCX339p6fGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "joyscandalous",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/pMM4FsCvA0XfpMHZk5ZUB8PzwuA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "POnYsARUXdM"
+            },
+            "snippet": {
+                "publishedAt": "2013-12-09T22:57:01.000Z",
+                "channelId": "UCRr0JCshJiX3kC35HmiHQcg",
+                "title": "Will Hoge- Even if it Breaks Your Heart 11/21/13",
+                "description": "Will Hoge performs his original hit \"Even if It Breaks Your Heart\" at Cheatham street Warehouse in San Marcos, TX 11/21/13.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/POnYsARUXdM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/POnYsARUXdM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/POnYsARUXdM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nikki Thibs",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/DK9eylqgc8vJMDUgMiyJADYjuao\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tms9vXxyx6k"
+            },
+            "snippet": {
+                "publishedAt": "2011-12-04T21:34:47.000Z",
+                "channelId": "UCC00lZugtsW0kNAwv2wlL-Q",
+                "title": "Will Hoge &#39;Even If It Breaks Your Heart&#39; at Stubbs in Austin TX",
+                "description": "Will Hoge performing 'Even If It Breaks Your Heart' at Stubbs BBQ in Austin TX on December 3, 2011.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tms9vXxyx6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tms9vXxyx6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tms9vXxyx6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Matt Kelley",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Q2upb_EsI8fiGZDQ9MfUMX-lTnI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0Jprg-7-OkU"
+            },
+            "snippet": {
+                "publishedAt": "2011-04-08T19:00:43.000Z",
+                "channelId": "UCFOpnvEAfaj8Ok-pkXj7MZg",
+                "title": "Will Hoge Even If It Breaks Your Heart (acoustic)",
+                "description": "Writers night at The Listening Room Nashville.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Jprg-7-OkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Jprg-7-OkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Jprg-7-OkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "sweetmagdeline",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/OHEFInlZaoc_GqI3g-5fqMYrDLk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wmojACmS4ow"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-23T01:44:54.000Z",
+                "channelId": "UCJD7k8Uq66fr2_bcguEIYzw",
+                "title": "Will Hoge - Even If It Breaks Your Heart 4/08/10",
+                "description": "Will Hoge - Even If It Breaks Your Heart at Paradise Rock Club in Boston on 4/08/10.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wmojACmS4ow/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wmojACmS4ow/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wmojACmS4ow/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "iliketofactor",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/GNJXPNyXUrOSh4AgT5Ta2ShS0Rk\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6ub4g1tLBYw"
+            },
+            "snippet": {
+                "publishedAt": "2015-04-25T17:30:25.000Z",
+                "channelId": "UC8cPQXsturBR2t3ZvcGNEQg",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "Music Farm in Columbia, SC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ub4g1tLBYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ub4g1tLBYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ub4g1tLBYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Nicole Ford",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/tzaHF66LRJTdAm8E1D6cKuWDxTo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vyU5k3Gqf2Q"
+            },
+            "snippet": {
+                "publishedAt": "2010-05-16T16:08:04.000Z",
+                "channelId": "UCyF62N-Kxwc8k5jaZK1feYg",
+                "title": "Even if it Breaks Your Heart- Will Hoge",
+                "description": "Will Hoge singing \"Even if it Breaks Your Heart\" at SPACE in Evanston on May 14, 2010.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vyU5k3Gqf2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vyU5k3Gqf2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vyU5k3Gqf2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "nbf03",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/BCjDDuP3Db1VALcRf7-28R4mCU4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xzvzmRP_MZc"
+            },
+            "snippet": {
+                "publishedAt": "2010-11-25T18:10:03.000Z",
+                "channelId": "UCmv2O0mwdO_Do4e2jNU7u7g",
+                "title": "Will Hoge - &quot;Even If It Breaks Your Heart&quot;",
+                "description": "Opening for Shinedown in Saginaw, Mi.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xzvzmRP_MZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xzvzmRP_MZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xzvzmRP_MZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AliMaldo",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/yZ4-9dqHz_oWUvwPtYq5_c94lI0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vwUMNVdn0P4"
+            },
+            "snippet": {
+                "publishedAt": "2015-06-08T14:07:20.000Z",
+                "channelId": "UCmRYouSnGOOidMbGRIcQHqQ",
+                "title": "Will Hoge Even if it Breaks your Heart",
+                "description": "Mercury ballroom Louisville KY May 29 1970.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vwUMNVdn0P4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vwUMNVdn0P4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vwUMNVdn0P4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mike Cunningham",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/0kAReSMlh53blMuxTysczvi3Sz8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wXTfXRzU7Mo"
+            },
+            "snippet": {
+                "publishedAt": "2013-06-14T05:55:36.000Z",
+                "channelId": "UCWJFsxQaig6xWkkTrZwt3KQ",
+                "title": "Will Hoge- &quot;Even If It Breaks Your Heart&quot; Live",
+                "description": "Will Hoge Mohegan Sun: Wolf Den June 13th 2013.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wXTfXRzU7Mo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wXTfXRzU7Mo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wXTfXRzU7Mo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Leilu14",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/7uOhPyKxQbLY8qzVQ0e90DrC7dE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6wrfRBi4-hY"
+            },
+            "snippet": {
+                "publishedAt": "2009-10-02T21:31:02.000Z",
+                "channelId": "UCMn1Oo3PlZu8982YKFz1xHA",
+                "title": "Will Hoge Breaks Your Heart",
+                "description": "Will Hoge playing \"Even If It Breaks Your Heart\" during the XPN Free At Noon concert on Oct. 2, 2009 at World Cafe Live in Philly.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6wrfRBi4-hY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6wrfRBi4-hY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6wrfRBi4-hY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pete",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/yBBXpR9SWZE5yJerYCyR0rkCYOw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "04Fm49PFpR0"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-25T09:11:13.000Z",
+                "channelId": "UCjYsD9CdeVZ2iV6xhr-V5FQ",
+                "title": "Even If It Breaks Your Heart - Will Hoge",
+                "description": "Will Hoge singing \"Even If It Breaks Your Heart\" to a hometown crowd at 3rd & Lindsley. 11-23-12.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/04Fm49PFpR0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/04Fm49PFpR0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/04Fm49PFpR0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "lesingleton09",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/J1V_odQLdO6Xmz3PQ1AkDT91WgU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hY8GYy8C7gI"
+            },
+            "snippet": {
+                "publishedAt": "2012-03-31T22:22:13.000Z",
+                "channelId": "UCsCnTTyTxefhuB_zStmH_pQ",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "Live at Tin Pan South. Belcourt Taps & Tapas Nashville Presented by YEP Nashville. Featuring Ashley Monroe, Will Hoge, Mindy Smith & Scooter Carusoe.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hY8GYy8C7gI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hY8GYy8C7gI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hY8GYy8C7gI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ac1449",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/NKIlA3tBvmdiW4yxVTfDDi1Nmuc\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Sv2YXAd5bdU"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-16T18:43:37.000Z",
+                "channelId": "UCPNWm3MNW_vDe8vWcSeE_Cw",
+                "title": "Will Hoge - Even If It Breaks Your Heart",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Sv2YXAd5bdU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Sv2YXAd5bdU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Sv2YXAd5bdU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "holdon81",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/g1yLBwUQ0vqTAkm--kBdb0CClpQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AwlO1d8yptI"
+            },
+            "snippet": {
+                "publishedAt": "2012-01-01T03:42:37.000Z",
+                "channelId": "UC86ShQOrP_CVQ5BV1W_TLRQ",
+                "title": "Will Hoge - Even if it breaks your heart (Nestor AnDress Live in Brownsville, TX)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AwlO1d8yptI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AwlO1d8yptI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AwlO1d8yptI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BURN78520",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/Kk4nUDXCU1_JSzbjRdvpKmJvo-o\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0nPjjKEAcWI"
+            },
+            "snippet": {
+                "publishedAt": "2012-12-01T14:43:34.000Z",
+                "channelId": "UCvul4ta3jDO5HJgmFoz4J4Q",
+                "title": "Will Hoge &quot;Even If It Breaks Your Heart&quot;",
+                "description": "At The Listening Room in Port Clinton, Ohio.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0nPjjKEAcWI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0nPjjKEAcWI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0nPjjKEAcWI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Joe Miller",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/-59h6WLKezp2W-WxdVmHSZvVBsQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zXPcLJxMaXc"
+            },
+            "snippet": {
+                "publishedAt": "2013-11-07T19:45:58.000Z",
+                "channelId": "UCLJTCHyNwtC2fk_fJ9j5wIw",
+                "title": "Will Hoge - Even If It Breaks Your Heart &amp; Daddy Was A Gambling Man [LIVE]",
+                "description": "Will Hoge and his band drove straight from the 2013 CMA Awards and stopped by the KORN Country 100.3FM - WYGB studio to perform on KORN JAM before ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zXPcLJxMaXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zXPcLJxMaXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zXPcLJxMaXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KORN Country 100.3FM - WYGB",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/7QH6w6RluhjeEhr9o1de16iGy8k\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KOzrBVhwXBo"
+            },
+            "snippet": {
+                "publishedAt": "2010-02-10T23:45:10.000Z",
+                "channelId": "UC1pbNFf-Llzo0yEvnDoZOVg",
+                "title": "Will Hoge- Even If It Breaks Your Heart",
+                "description": "Will Hoge- Even If It Breaks Your Heart The Rock Boat X Paris Lounge.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KOzrBVhwXBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KOzrBVhwXBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KOzrBVhwXBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "daydreamer251",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/AlK1BLyR78xeEama1J7_kawKmZQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4PqbY2FdcFs"
+            },
+            "snippet": {
+                "publishedAt": "2010-04-27T14:07:57.000Z",
+                "channelId": "UCJwCJQVcX8iw_0Pls5VBW5Q",
+                "title": "Will Hoge-Even If It Breaks Your Heart-The Music Farm-Charleston, SC",
+                "description": "Will Hoge performing \"Even If It Breaks Your Heart\" at The Music Farm in Charleston, SC on 04/17/10. Video by Sue Kropp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4PqbY2FdcFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4PqbY2FdcFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4PqbY2FdcFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "castromusicfreak",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/ol_nZURBruYPEjTOec8DVfBI7Cw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_uMJ26zOKAI"
+            },
+            "snippet": {
+                "publishedAt": "2014-01-23T11:05:58.000Z",
+                "channelId": "UCW1HmUPheBCVlBZnjcmKSaQ",
+                "title": "Even If it Breaks Your Heart - Will Hoge Cover",
+                "description": "Another great Will Hoge tune also done by the Eli Young Band.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_uMJ26zOKAI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_uMJ26zOKAI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_uMJ26zOKAI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GuitarSwan",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
