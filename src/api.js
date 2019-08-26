@@ -81,6 +81,17 @@ class Api {
     return response.data;
   }
 
+  async getChannelDetail({ id }) {
+    const query = queryString.stringify({
+      id,
+      key: this.key,
+      part: 'snippet,contentDetails',
+      maxResults: 50   
+    });
+    const response = await api.get(`/channels?${query}`, defaultConfig);
+    return response.data;
+  }
+
 }
 
 module.exports = Api;

@@ -1,0 +1,48 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/rQjn7Agv2Ta0XRo23wiZFME-IZA\"",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "\"8jEFfXBrqiSrcF6Ee7MQuz8XuAM/2KlVcgC6XrKPZM6dT2kyxLHN4d8\"",
+            "id": "UCuY1Z8ah-OtwBZ4jxcKqSSg",
+            "snippet": {
+                "title": "Will Hoge - Topic",
+                "description": "Will Hoge is an American Americana country music singer, songwriter, and musician from Nashville, Tennessee, United States.",
+                "publishedAt": "2013-05-21T16:07:33.000Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/w7LPDFEQ8y87_9ssz44SbbaB19N8-Xf0u74VT3Hr6AtxmjzwTya6J1QbsF8ptnV53g7R-QprhQ=s88-c-k-c0xffffffff-no-rj-mo",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/w7LPDFEQ8y87_9ssz44SbbaB19N8-Xf0u74VT3Hr6AtxmjzwTya6J1QbsF8ptnV53g7R-QprhQ=s240-c-k-c0xffffffff-no-rj-mo",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/w7LPDFEQ8y87_9ssz44SbbaB19N8-Xf0u74VT3Hr6AtxmjzwTya6J1QbsF8ptnV53g7R-QprhQ=s800-c-k-c0xffffffff-no-rj-mo",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Will Hoge - Topic",
+                    "description": "Will Hoge is an American Americana country music singer, songwriter, and musician from Nashville, Tennessee, United States."
+                }
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "uploads": "UUuY1Z8ah-OtwBZ4jxcKqSSg",
+                    "watchHistory": "HL",
+                    "watchLater": "WL"
+                }
+            }
+        }
+    ]
+}

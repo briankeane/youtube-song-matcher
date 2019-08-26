@@ -3,7 +3,8 @@ const { assert } = require('chai');
 const Api = require('../src/api');
 const {
   song_search_200,
-  channel_search_200
+  channel_search_200,
+  channel_detail_200
 } = require('./mockResponses');
 const { checkAndClearNocks } = require('./testHelpers');
 
@@ -49,5 +50,23 @@ describe('api', function () {
     const response = await api.channelSearch({ q });
     assert.deepEqual(response, channel_search_200);
   });
+
+  it ('gets a channel detail', async function () {
+    const id = 'UCuY1Z8ah-OtwBZ4jxcKqSSg&part';
+    nock('https://www.googleapis.com/youtube/v3')
+      .get('/channels')
+      .query({
+        id,
+        key,
+        part: 'snippet,contentDetails',
+        maxResults: 50
+      })
+      .reply(200, channel_detail_200);
+
+    const response = await api.getChannelDetail({ id });
+    assert.deepEqual(response, channel_detail_200);
+  });
+
+
 
 });
