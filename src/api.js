@@ -68,6 +68,19 @@ class Api {
     const response = await api.get(`/search?${query}`, defaultConfig);
     return response.data;
   }
+
+  async channelSearch({ q }) {
+    const query = queryString.stringify({
+      q: cleanString(q),
+      key: this.key,
+      part: 'snippet',
+      type: 'channel',
+      maxResults: 50   
+    });
+    const response = await api.get(`/search?${query}`, defaultConfig);
+    return response.data;
+  }
+
 }
 
 module.exports = Api;

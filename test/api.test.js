@@ -2,7 +2,8 @@ const nock = require('nock');
 const { assert } = require('chai');
 const Api = require('../src/api');
 const {
-  song_search_200
+  song_search_200,
+  channel_search_200
 } = require('./mockResponses');
 const { checkAndClearNocks } = require('./testHelpers');
 
@@ -32,5 +33,21 @@ describe('api', function () {
     assert.deepEqual(response, song_search_200);
   });
 
+  it ('searches for an artist channel', async function () {
+    const q = 'Will Hoge - Topic';
+    nock('https://www.googleapis.com/youtube/v3')
+      .get('/search')
+      .query({ 
+        q,
+        key,
+        part: 'snippet',
+        type: 'channel',
+        maxResults: 50
+      })
+      .reply(200, channel_search_200);
   
+    const response = await api.channelSearch({ q });
+    assert.deepEqual(response, channel_search_200);
+  });
+
 });
