@@ -42,53 +42,55 @@ function performExponentialBackoff(api, err) {
   return backoff.then(() => api(config));
 }
 
-
-//
-// This should be used to remove characters like &
-//
-function cleanString(str) {
-  return str
-    .replace('&', ' ');
-}
-
 class Api {
   constructor({ key }) {
     this.key = key;
   }
 
   async musicVideoSearch({ q }) {
-    const query = queryString.stringify({
-      q: cleanString(q),
+    const params = {
+      q,
       key: this.key,
       part: 'snippet',
       type: 'video',
       maxResults: 50,
       videoCategoryId: '10'
-    });
-    const response = await api.get(`/search?${query}`, defaultConfig);
+    };
+    const response = await api.get('/search', { params, ...defaultConfig });
     return response.data;
   }
 
   async channelSearch({ q }) {
-    const query = queryString.stringify({
-      q: cleanString(q),
+    const params = {
+      q,
       key: this.key,
       part: 'snippet',
       type: 'channel',
       maxResults: 50   
-    });
-    const response = await api.get(`/search?${query}`, defaultConfig);
+    };
+    const response = await api.get('/search', { params, ...defaultConfig });
     return response.data;
   }
 
   async getChannelDetail({ id }) {
-    const query = queryString.stringify({
+    const params = {
       id,
       key: this.key,
       part: 'snippet,contentDetails',
       maxResults: 50   
-    });
-    const response = await api.get(`/channels?${query}`, defaultConfig);
+    };
+    const response = await api.get('/channels', { params, ...defaultConfig });
+    return response.data;
+  }
+
+  async getDetailsForVideos({ ids }) {
+    if (ids.length > 50) throw new Error('Could not get video details: too many ids submitted');
+    const params = {
+      id: ids,
+      key: this.key,
+      part: 'contentDetails,statistics,snippet'
+    };
+    const response = await api.get('/videos', { params, ...defaultConfig });
     return response.data;
   }
 
