@@ -93,7 +93,6 @@ class Api {
     const response = await api.get('/videos', { params, ...defaultConfig });
     return response.data;
   }
-
 }
 
-module.exports = Api;
+module.exports = (attrs) => new Api(attrs);

@@ -1,6 +1,7 @@
 const nock = require('nock');
 const { assert } = require('chai');
-const Api = require('../src/api');
+const key = 'thisIsMyAPIToken';
+const api = require('../src/api')({ key });
 const {
   song_search_200,
   channel_search_200,
@@ -10,13 +11,6 @@ const {
 const { checkAndClearNocks } = require('./testHelpers');
 
 describe('api', function () {
-  const key = 'thisIsMyAPIToken';
-  let api;
-
-  beforeEach(function () {
-    api = new Api({ key });
-  });
-
   it ('searches for a music video', async function () {
     const q = 'Will Hoge Even If It Breaks Your Heart';
     nock('https://www.googleapis.com/youtube/v3')
@@ -88,5 +82,7 @@ describe('api', function () {
       })
       .reply(200, details_for_videos_200);
   });
+
+
 
 });
