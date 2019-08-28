@@ -11,6 +11,9 @@ const {
 const { checkAndClearNocks } = require('./testHelpers');
 
 describe('api', function () {
+  afterEach(async function () {
+    await checkAndClearNocks(nock);
+  });
   it ('searches for a music video', async function () {
     const q = 'Will Hoge Even If It Breaks Your Heart';
     nock('https://www.googleapis.com/youtube/v3')
@@ -58,7 +61,7 @@ describe('api', function () {
       })
       .reply(200, channel_detail_200);
 
-    const response = await api.getChannelDetail({ id });
+    const response = await api.getChannelDetail({ ids: [id] });
     assert.deepEqual(response, channel_detail_200);
   });
 
@@ -68,21 +71,20 @@ describe('api', function () {
     } catch (err) {
       assert.equal(err.message, 'Could not get video details: too many ids submitted');
     }
-  })
+  });
 
   it ('gets the details of some videos', async function () {
     const ids = song_search_200.items.map(item => item.id.videoId);
     nock('https://www.googleapis.com/youtube/v3')
-      .get('/videos')
+      .get('/channels')
       .query({
         id: ids,
         key,
-        part: 'contentDetails,statistics,snipped',
+        part: 'snippet,contentDetails',
         maxResults: 50
       })
       .reply(200, details_for_videos_200);
+    const response = await api.getChannelDetail({ ids });
+    assert.deepEqual(response, details_for_videos_200);
   });
-
-
-
 });
