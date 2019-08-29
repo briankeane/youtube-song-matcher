@@ -25,4 +25,7 @@ module.exports = {
 
   // https://www.googleapis.com/youtube/v3/playlistItems?playlistId=UUuY1Z8ah-OtwBZ4jxcKqSSg&part=snippet,contentDetails,status&maxResults=50&pageToken=CMgBEAA&key=YOUR_YOUTUBE_API_KEY
   playlist_items_200_p5: require('./playlist_items_200_p5'),
+
+  // https://www.googleapis.com/youtube/v3/search?q=Will Hasdfasdfsdafoiu sdfhklafsdjkhlfdsaiuoqwerkjafds asdfasdfsadf&part=snippet&type=channel&maxResults=50&key=YOUR_YOUTUBE_API_KEY
+  playlist_items_none_found_200: require('./playlist_items_none_found_200')
 };
