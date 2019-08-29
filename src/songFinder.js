@@ -90,6 +90,14 @@ class SongFinder {
     const response = await this.api.getChannelDetails({ id });
     return response.items[0];
   }
+
+  async getPlaylistItems({ id, pageToken, pageCount=0 }) {
+    const response = await this.api.getPlaylistItems({ id, pageToken });
+    const { nextPageToken } = response;
+    if (!nextPageToken || pageCount >= 20)
+      return response.items;
+    return response.items.concat(await this.getPlaylistItems({ id, pageToken: nextPageToken, pageCount: pageCount++ }));
+  }
 }
 
 module.exports = (attrs) => new SongFinder(attrs);
