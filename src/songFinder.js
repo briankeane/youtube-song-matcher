@@ -85,6 +85,11 @@ class SongFinder {
     const response = await this.api.channelSearch({ q: artist });
     return channelMatch(artist, response.items);
   }
+
+  async getChannelDetails({ id }) {
+    const response = await this.api.getChannelDetails({ id });
+    return response.items[0];
+  }
 }
 
 module.exports = (attrs) => new SongFinder(attrs);

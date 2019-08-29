@@ -71,9 +71,9 @@ class Api {
     return response.data;
   }
 
-  async getChannelDetail({ ids }) {
+  async getChannelDetails({ id }) {
     const params = {
-      id: ids,
+      id: id,
       key: this.key,
       part: 'snippet,contentDetails',
       maxResults: 50   
@@ -91,6 +91,18 @@ class Api {
       maxResults: 50
     };
     const response = await api.get('/videos', { params, ...defaultConfig });
+    return response.data;
+  }
+
+  async getPlaylistItems({ id, pageToken }) {
+    const params = {
+      playlistId: id,
+      key: this.key,
+      part: 'snippet,contentDetails,status',
+      maxResults: 50,
+      pageToken
+    };
+    const response = await api.get('/playlistItems', { params, ...defaultConfig });
     return response.data;
   }
 }
