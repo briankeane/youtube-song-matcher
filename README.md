@@ -18,7 +18,7 @@ console.log(results);
 
 will give you something like:
 
-```json
+```
 [
   { 
     kind: 'youtube#playlistItem',
