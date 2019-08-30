@@ -85,7 +85,7 @@ class Api {
   async getDetailsForVideos({ ids }) {
     if (ids.length > 50) throw new Error('Could not get video details: too many ids submitted');
     const params = {
-      id: ids,
+      id: ids.join(','),
       key: this.key,
       part: 'contentDetails,statistics,snippet',
       maxResults: 50

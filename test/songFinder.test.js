@@ -235,7 +235,7 @@ describe('SongFinder', function () {
                 }
               ]
             });
-            rankAndSortStub = sinon.stub(resultsRanker, 'rankAndSort').callsFake(results => results);
+            rankAndSortStub = sinon.stub(resultsRanker, 'rankAndSort').callsFake(attrs => attrs.videos);
           });
 
           afterEach(function () {
@@ -243,7 +243,8 @@ describe('SongFinder', function () {
           });
 
           it ('gets some song matches', async function () {
-            const matches = await songFinder.getSongMatches({ artist: 'Will Hoge', title: 'Even If It Breaks Your Heart', durationMS: 1000 });
+            const matches = await songFinder.getSongMatches({ artist: 'Will Hoge', title: 'Even If It Breaks Your Heart', durationMS: 22000 });
+            
             assert.equal(matches.length, 205+1);  // should add only the non-duplicate
             
             // should add the details

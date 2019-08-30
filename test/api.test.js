@@ -81,7 +81,7 @@ describe('api', function () {
     nock('https://www.googleapis.com/youtube/v3')
       .get('/videos')
       .query({
-        id: ids,
+        id: ids.join(','),
         key,
         part: 'contentDetails,statistics,snippet',
         maxResults: 50
