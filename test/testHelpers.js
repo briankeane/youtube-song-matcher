@@ -1,3 +1,5 @@
+const { assert } = require('chai');
+
 function checkAndClearNocks(nock) {
   if(!nock.isDone()) {
     console.log('remaining Nocks: ', nock.pendingMocks());
@@ -8,4 +10,4 @@ function checkAndClearNocks(nock) {
 
 module.exports = {
   checkAndClearNocks
-}
+};
