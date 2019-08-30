@@ -1,8 +1,6 @@
 const Fuse = require('fuse.js');
 
-
 const minMatchCharLength = 4;
-
 const defaultFuseOptions = {
   shouldSort: false,
   caseSensitive: false,
