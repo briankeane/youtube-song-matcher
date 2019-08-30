@@ -15,14 +15,14 @@ const defaultFuseOptions = {
 };
 
 function rankAndSort({ data, videos }) {
-    videos = filterByDuration({ data, videos});
-    videos = rankTitleMatch({ data, videos});
-    videos = rankArtistMatch({ data, videos});
-    videos = rankContainsOfficial({ data, videos});
-    videos = markContainsProvidedToYouTubeBy({ data, videos});
-    videos = markContainsStandardLicense({ data, videos});
-    videos = rankTotalScore({ data, videos});
-    return sortVideos(videos);
+  videos = filterByDuration({ data, videos});
+  videos = rankTitleMatch({ data, videos});
+  videos = rankArtistMatch({ data, videos});
+  videos = rankContainsOfficial({ data, videos});
+  videos = markContainsProvidedToYouTubeBy({ data, videos});
+  videos = markContainsStandardLicense({ data, videos});
+  videos = rankTotalScore({ data, videos});
+  return sortVideos(videos);
 }
 
 function rankTotalScore({ videos }) {
@@ -36,7 +36,7 @@ function rankTotalScore({ videos }) {
       totalScore += (10 * (video.matchInfo.titleMatchRating));
 
     if (video.matchInfo.containsOfficialRating)
-      totalScore += (3 * (video.matchInfo.containsOfficialRating))
+      totalScore += (3 * (video.matchInfo.containsOfficialRating));
 
     if (video.matchInfo.containsProvidedToYouTubeBy)
       totalScore += 3.0;
@@ -54,22 +54,22 @@ function rankArtistMatch({ data, videos }) {
   const options = {
     ...defaultFuseOptions,
     keys: [
-        {
-            "name": "snippet.title",
-            "weight": 0.4
-        },
-        {
-            "name": "snippet.channelTitle",
-            "weight": 0.4
-        },
-        {
-            "name": "description",
-            "weight": 0.2
-        }
-      ]
+      {
+        'name': 'snippet.title',
+        'weight': 0.4
+      },
+      {
+        'name': 'snippet.channelTitle',
+        'weight': 0.4
+      },
+      {
+        'name': 'description',
+        'weight': 0.2
+      }
+    ]
   };
   const fuse = new Fuse(videos, options);
-  results = fuse.search(data.artist);
+  const results = fuse.search(data.artist);
   return flattenFuseResults(results, 'artistMatchRating');
 }
 
@@ -82,7 +82,7 @@ function rankTitleMatch({ data, videos }) {
     ]
   };
   const fuse = new Fuse(videos, options);
-  results = fuse.search(data.title);
+  const results = fuse.search(data.title);
   return flattenFuseResults(results, 'titleMatchRating');
 }
 
@@ -111,8 +111,8 @@ function filterByDuration({ data, videos }) {
   return videos.filter(video => {
     const difference = Math.abs(data.durationMS - video.durationMS);
     video.matchInfo = {
-        ...(video.matchInfo || {}),
-        durationMatchRating: difference/3000
+      ...(video.matchInfo || {}),
+      durationMatchRating: difference/3000
     };
     return (difference <= 3000);
   });
