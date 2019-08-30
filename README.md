@@ -7,7 +7,7 @@ npm install --save youtube-song-matcher
 
 ### Usage
 ```
-const matcher = require('youtube-song-matcher');
+const matcher = require('youtube-song-matcher')({ key: YOUR_YOUTUBE_API_KEY });
 const results = await matcher.getSongMatches({ 
   artist: 'Will Hoge', 
   title: 'Even If It Breaks Your Heart',
