@@ -1,4 +1,4 @@
-## YouTube-Song-Searcher
+## YouTube-Song-Matcher
 
 ### Installation
 ```
