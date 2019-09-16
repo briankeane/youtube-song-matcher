@@ -21,7 +21,7 @@ class SongFinder {
       return videos.map(video => ({ ...video, id: video.id.videoId }));
     }
 
-    const data = await this.api.musicVideoSearch({ artist, title });
+    const data = await this.api.musicVideoSearch({ q: `${artist} ${title}` });
     let videos = flattenIDs(data.items);
     return await this.addDetailsToVideos({ videos });
   }
