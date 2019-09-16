@@ -84,6 +84,7 @@ describe('SongFinder', function () {
         assert.equal(matches.length, song_search_200.items.length);
         assert.equal(matches[0].durationMS, youTubeTimeToMS(details_for_videos_200['items'][0].contentDetails.duration));
         assert.equal(matches[0].snippet.title, song_search_200['items'][0].snippet.title);
+        sinon.assert.calledWith(musicVideoSearchStub, { q: `${songInfo.artist} ${songInfo.title}`});
       });
     });
 
