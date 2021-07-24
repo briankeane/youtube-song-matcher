@@ -1,1 +1,1 @@
-module.exports = require('./src/songFinder');
+module.exports = require("./src/songFinder");

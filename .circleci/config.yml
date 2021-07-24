@@ -3,12 +3,9 @@ jobs:
   build:
     working_directory: ~/mern-starter
     docker:
-      - image: circleci/node:10.16.0
+      - image: circleci/node:14.17.3
     steps:
       - checkout
-      - run:
-          name: update-yarn
-          command: 'sudo npm install -g yarn'
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
