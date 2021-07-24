@@ -2,14 +2,22 @@
 function youTubeTimeToMS(duration) {
   var a = duration.match(/\d+/g);
 
-  if (duration.indexOf('M') >= 0 && duration.indexOf('H') == -1 && duration.indexOf('S') == -1) {
+  if (
+    duration.indexOf("M") >= 0 &&
+    duration.indexOf("H") == -1 &&
+    duration.indexOf("S") == -1
+  ) {
     a = [0, a[0], 0];
   }
 
-  if (duration.indexOf('H') >= 0 && duration.indexOf('M') == -1) {
+  if (duration.indexOf("H") >= 0 && duration.indexOf("M") == -1) {
     a = [a[0], 0, a[1]];
   }
-  if (duration.indexOf('H') >= 0 && duration.indexOf('M') == -1 && duration.indexOf('S') == -1) {
+  if (
+    duration.indexOf("H") >= 0 &&
+    duration.indexOf("M") == -1 &&
+    duration.indexOf("S") == -1
+  ) {
     a = [a[0], 0, 0];
   }
 
@@ -60,18 +68,18 @@ function stringDistance(s1, s2) {
   var lcs = 0;
   var maxOffset = 5;
 
-  while ((c + offset1 < s1.length) && (c + offset2 < s2.length)) {
+  while (c + offset1 < s1.length && c + offset2 < s2.length) {
     if (s1.charAt(c + offset1) == s2.charAt(c + offset2)) {
       lcs++;
     } else {
       offset1 = 0;
       offset2 = 0;
       for (var i = 0; i < maxOffset; i++) {
-        if ((c + i < s1.length) && (s1.charAt(c + i) == s2.charAt(c))) {
+        if (c + i < s1.length && s1.charAt(c + i) == s2.charAt(c)) {
           offset1 = i;
           break;
         }
-        if ((c + i < s2.length) && (s1.charAt(c) == s2.charAt(c + i))) {
+        if (c + i < s2.length && s1.charAt(c) == s2.charAt(c + i)) {
           offset2 = i;
           break;
         }
@@ -83,7 +91,7 @@ function stringDistance(s1, s2) {
 }
 
 function removeThe(word) {
-  if (word.toLowerCase().substr(0,4) == 'the ') {
+  if (word.toLowerCase().substr(0, 4) == "the ") {
     return word.substr(4);
   }
   return word;
@@ -91,5 +99,5 @@ function removeThe(word) {
 
 module.exports = {
   youTubeTimeToMS,
-  stringDistance
+  stringDistance,
 };
