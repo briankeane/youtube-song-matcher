@@ -1,6 +1,6 @@
 {
   "name": "youtube-song-matcher",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Finds the most likely match for the studio recording of a song on youtube, through the youtube api.",
   "main": "index.js",
   "scripts": {
