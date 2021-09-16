@@ -2,8 +2,8 @@ const axios = require("axios");
 const api = axios.create({
   baseURL: "https://www.googleapis.com/youtube/v3",
 });
-
 const defaultConfig = { responseType: "json", retry: 20, retryDelay: 1000 };
+const scraper = require("./scraper");
 
 api.interceptors.response.use(null, (error) => {
   // socket hang up
@@ -42,11 +42,24 @@ function performExponentialBackoff(api, err) {
 }
 
 class Api {
-  constructor({ key }) {
+  constructor({ key, useScraper = false }) {
     this.key = key;
+    this.useScraper = useScraper;
   }
 
-  async musicVideoSearch({ q }) {
+  async musicVideoSearch({ q, useScraper = false }) {
+    return this.useScraper
+      ? await scraper.musicVideoSearch({ q })
+      : await this._musicVideoSearch({ q });
+  }
+
+  async channelSearch({ q, useScraper = false }) {
+    return this.useScraper
+      ? await scraper.channelSearch({ q })
+      : await this._channelSearch({ q });
+  }
+
+  async _musicVideoSearch({ q }) {
     const params = {
       q,
       key: this.key,
@@ -59,7 +72,7 @@ class Api {
     return response.data;
   }
 
-  async channelSearch({ q }) {
+  async _channelSearch({ q }) {
     const params = {
       q,
       key: this.key,
