@@ -25,7 +25,7 @@ function scraperVideoToApiVideo(data) {
     snippet: {
       title: data.title,
       description: data.description,
-      channelTitle: data.channel?.name,
+      channelTitle: data.channel ? data.channel.name : undefined,
     },
     durationMS: data.duration ? data.duration * 1000 : undefined,
     description: data.description,
