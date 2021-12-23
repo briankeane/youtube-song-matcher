@@ -18,7 +18,7 @@
   "homepage": "https://github.com/briankeane/youtube-song-matcher#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "fuse.js": "^3.4.5",
+    "fuse.js": "^6.5.2",
     "scrape-youtube": "^2.1.9"
   },
   "devDependencies": {
